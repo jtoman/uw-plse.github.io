@@ -22,17 +22,17 @@ Apr 25      Brian Burg                  Probes, Tests, and the Fruits of my Appl
 May  2      James Wilcox, Doug Woos     Corgi: Machine-checked Reasoning about Failure and Performance of Distributed Systems
 
 May  9      Todd Schiller               Case Studies and Tools for Contract Specifications <br />
-	                                    (ICSE 14 Practice!)
+	                                    _(ICSE 14 Practice!)_
 
 May 16      Sai Zhang                   Which Configuration Option Should I Change? <br />
-	                                    (ICSE 14 Practice!)
+	                                    _(ICSE 14 Practice!)_
 
 May 23      Kivanc Muslu                Transition from Centralized to Decentralized Version Control Systems: <br />
                                         A Case Study on Reasons, Barriers, and Outcomes <br />
-	                                    (ICSE 14 Practice!)
+	                                    _(ICSE 14 Practice!)_
 
 May 30      Adrian Sampson              Expressing and Verifying Probabilistic Assertions <br />
-	                                    (PLDI 14 Practice!)
+	                                    _(PLDI 14 Practice!)_
 
 Jun  6      Eric Reed                   _(TBD)_
 
