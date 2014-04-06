@@ -1,0 +1,26 @@
+body {
+    min-width: 400px;
+    max-width: 800px;
+    margin: 20px auto;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 14pt;
+}
+h1, h2, h3, h4, h5 {
+    /* UW Purple */
+    color: #39275B;
+}
+table {
+    width: 100%;
+}
+td {
+    padding: 5px;
+    border: 1px solid gray;
+}
+pre {
+    padding: 10px;
+    background: #eee;
+    border: 1px solid black;
+}
+code {
+    font-weight: bold;
+}

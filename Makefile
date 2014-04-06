@@ -1,13 +1,14 @@
 PANDOC = pandoc
-PDOPTS = -f markdown -t html -c style.css -A tracking.js
+PDOPTS = -f markdown -t html -c http://uw-plse.github.io/style.css -A tracking.js
 
-PAGES = index.md
+PAGES = $(wildcard *.md) $(wildcard */*.md)
 HTMLS = $(PAGES:.md=.html)
 
 all: $(HTMLS)
 
 %.html: %.md
-	$(PANDOC) $(PDOPTS) -o '$*.html' '$*.md'
+	@echo "PANDOC $*.md"
+	@$(PANDOC) $(PDOPTS) -o '$*.html' '$*.md'
 
 clean:
 	rm -f $(HTMLS)
