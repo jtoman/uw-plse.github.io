@@ -10,4 +10,4 @@ University of Washington Programming Languages and Software Engineering (UW PLSE
 
 * [Programming Languages Seminar][PLSEM]
 
-* [PLSE Group Meeting][PLSEM]
+* [PLSE Group Meeting][GMEET]

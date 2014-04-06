@@ -5,10 +5,6 @@ body {
     font-family: Helvetica, Arial, sans-serif;
     font-size: 14pt;
 }
-h1, h2, h3, h4, h5 {
-    /* UW Purple */
-    color: #39275B;
-}
 table {
     width: 100%;
 }

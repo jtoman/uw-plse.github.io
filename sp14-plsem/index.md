@@ -1,13 +1,9 @@
-# Programming Languages Seminar (Spring 2014)
+## UW PL Seminar (Spring 2014)
 
-## *Wed 3:30pm in CSE 203*
-
-## Overview
+### *Wed 3:30pm in CSE 203*
 
 We'll be reading and discussing exciting recent papers from the
-programming languages community.
-
-Participants should subscribe to the
+programming languages community.  Participants should subscribe to the
 [590p mailing list](https://mailman.cs.washington.edu/mailman/listinfo/cse590p). Note
 the list also has many current and former department members
 interested in programming languages.
@@ -16,7 +12,7 @@ Some paper links may point into the ACM Digital Library or the
 Springer online collection. Using a UW IP address, or the UW
 libraries' off-campus access, should provide access.
 
-## Schedule
+### Schedule
 
 [TLA]:        http://research.microsoft.com/pubs/64074/lamport-actions.pdf
 [VERISHARED]: http://link.springer.com/chapter/10.1007/978-3-642-54833-8_7
@@ -27,12 +23,12 @@ libraries' off-campus access, should provide access.
 [PARAM]:      ftp://ftp.cs.cmu.edu/usr/jcr/typesabpara.pdf
 [UNCERTAIN]:  http://research.microsoft.com/pubs/208236/asplos077-bornholtA.pdf
 
--------------------------------------------------------------------------------------------------------------------------
-Date    Presenter          	      Paper
-------  ----------------------    ---------------------------------------------------------------------------------------
-Apr  2  Zach Tatlock       	      Organization
+--------------------------------------------------------------------
+Date    Presenter                 Paper
+------  ------------------------  ----------------------------------
+Apr  2  Zach Tatlock              Organization
 
-Apr  9  Byron Cook                "Just because a problem is undecidable doesn't mean it goes away."
+Apr  9  Byron Cook                "Undecidable problems are still problems."
 
 Apr 16  Doug                      [The Temporal Logic of Actions][TLA]
 
@@ -50,4 +46,4 @@ May 28  James, Colin              [Types, Abstraction, and Parametric Polymorphi
 
 Jun  4  Eric R., Kirill           [Uncertain&lt;T&gt;: A First-Order Type for Uncertain Data][UNCERTAIN]
 
--------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------
