@@ -28,13 +28,13 @@ Date        Presenter                 Paper
 ----------  ------------------------  -------------------------------------------------------
 Apr  2      Zach Tatlock              Organization
 
-Apr  9      Byron Cook                "Undecidable problems are still problems."
+Apr  9      Byron Cook (MSR)          "Undecidable problems are still problems."
 
 Apr 16      Doug                      [The Temporal Logic of Actions][TLA]
 
 Apr 23      Eric M., Stuart           [Verified Compilation for Shared-Memory C][VERISHARED]
 
-Apr 30      Pavel, Adrian             [Stochastic Optimization of Floating Point Programs using Tunable Precision][STOKEFP]
+Apr 30      Pavel, Adrian             [Stochastic Optimization of FP Programs using Tunable Precision][STOKEFP]
 
 May  7      Konstantin, Brandon H.    [Don't Sweat the Small Stuff][SMALLSTUFF]
 

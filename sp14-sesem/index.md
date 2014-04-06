@@ -23,28 +23,28 @@ libraries' off-campus access, should provide access.
 [SOUNDINT]:   http://people.csail.mit.edu/fanl/papers/sift-popl14.pdf
 [SYMVERI]:    http://users.ece.cmu.edu/~aavgerin/papers/veritesting-icse-2014.pdf
 
---------------------------------------------------------------------
-Date    Presenter          	      Paper
-------  ------------------------  ----------------------------------
-Mar 31  Colin                     Organization
+---------------------------------------------------------------------------------------------
+Date        Presenter                 Paper
+----------  ------------------------  -------------------------------------------------------
+Mar 31      Colin                     Organization
 
-Apr  7  Darioush, Kivanc          [Code Coverage for Suite Evaluation by Developers][CODECOVER1]<br />
-                                  [Coverage Is Not Strongly Correlated with Test Suite Effectiveness][CODECOVER2]
+Apr  7      Darioush, Kivanc          [Code Coverage for Suite Evaluation by Developers][CODECOVER1]<br />
+                                      [Coverage Is Not Strongly Correlated with Test Suite Effectiveness][CODECOVER2]
 
-Apr 14  Colin                     [The Dafny Integrated Development Environment][DAFNY]
+Apr 14      Colin                     [The Dafny Integrated Development Environment][DAFNY]
 
-Apr 21  Yuriy Brun (UMass)        "Factors Affecting Success in Automatic Program Repair"
+Apr 21      Yuriy Brun (UMass)        "Factors Affecting Success in Automatic Program Repair"
 
-Apr 28  Edward                    [Micro Execution][UEXEC]
+Apr 28      Edward                    [Micro Execution][UEXEC]
 
-May  5  Doug, Calvin              [Toward General Diagnosis of Static Errors][GENDIAG]
+May  5      Doug, Calvin              [Toward General Diagnosis of Static Errors][GENDIAG]
 
-May 12  Stuart                    [Prototyping Symbolic Execution Engines for Interpreted Languages][SYMINTERP]
+May 12      Stuart                    [Prototyping Symbolic Execution Engines for Interpreted Languages][SYMINTERP]
 
-May 19  Pavel                     [Sound Input Filter Generation for Integer Overﬂow Errors][SOUNDINT]
+May 19      Pavel                     [Sound Input Filter Generation for Integer Overﬂow Errors][SOUNDINT]
 
-May 26  (none)                    MEMORIAL DAY
+May 26      (none)                    MEMORIAL DAY
 
-Jun  2  James                     [Enhancing Symbolic Execution with Veritesting][SYMVERI]
+Jun  2      James                     [Enhancing Symbolic Execution with Veritesting][SYMVERI]
 
---------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
