@@ -23,9 +23,9 @@ libraries' off-campus access, should provide access.
 [PARAM]:      ftp://ftp.cs.cmu.edu/usr/jcr/typesabpara.pdf
 [UNCERTAIN]:  http://research.microsoft.com/pubs/208236/asplos077-bornholtA.pdf
 
---------------------------------------------------------------------
+---------------------------------------------------------------------------
 Date    Presenter                 Paper
-------  ------------------------  ----------------------------------
+------  ------------------------  -----------------------------------------
 Apr  2  Zach Tatlock              Organization
 
 Apr  9  Byron Cook                "Undecidable problems are still problems."
@@ -46,4 +46,4 @@ May 28  James, Colin              [Types, Abstraction, and Parametric Polymorphi
 
 Jun  4  Eric R., Kirill           [Uncertain&lt;T&gt;: A First-Order Type for Uncertain Data][UNCERTAIN]
 
---------------------------------------------------------------------
+---------------------------------------------------------------------------
