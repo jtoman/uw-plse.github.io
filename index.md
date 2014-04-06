@@ -4,7 +4,7 @@
 [PLSEM]: sp14-plsem/
 [GMEET]: sp14-gmeet/
 
-University of Washington Programming Languages and Software Engineering (UW PLSE)
+University of Washington Programming Languages and Software Engineering
 
 * [Software Engineering Seminar][SESEM]
 

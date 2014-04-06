@@ -4,7 +4,7 @@
 
 We'll be reading and discussing exciting recent papers from the
 software engineering community.  Participants should subscribe to the
-[590p mailing list](https://mailman.cs.washington.edu/mailman/listinfo/cse590p). Note
+[590n mailing list](https://mailman.cs.washington.edu/mailman/listinfo/cse590n). Note
 the list also has many current and former department members
 interested in programming languages.
 
