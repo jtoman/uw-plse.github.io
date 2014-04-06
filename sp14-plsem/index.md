@@ -23,27 +23,27 @@ libraries' off-campus access, should provide access.
 [PARAM]:      ftp://ftp.cs.cmu.edu/usr/jcr/typesabpara.pdf
 [UNCERTAIN]:  http://research.microsoft.com/pubs/208236/asplos077-bornholtA.pdf
 
------------------------------------------------------------------------------------------
-Date    Presenter                 Paper
-------  ------------------------  -------------------------------------------------------
-Apr  2  Zach Tatlock              Organization
+---------------------------------------------------------------------------------------------
+Date        Presenter                 Paper
+----------  ------------------------  -------------------------------------------------------
+Apr  2      Zach Tatlock              Organization
 
-Apr  9  Byron Cook                "Undecidable problems are still problems."
+Apr  9      Byron Cook                "Undecidable problems are still problems."
 
-Apr 16  Doug                      [The Temporal Logic of Actions][TLA]
+Apr 16      Doug                      [The Temporal Logic of Actions][TLA]
 
-Apr 23  Eric M., Stuart           [Verified Compilation for Shared-Memory C][VERISHARED]
+Apr 23      Eric M., Stuart           [Verified Compilation for Shared-Memory C][VERISHARED]
 
-Apr 30  Pavel, Adrian             [Stochastic Optimization of Floating Point Programs using Tunable Precision][STOKEFP]
+Apr 30      Pavel, Adrian             [Stochastic Optimization of Floating Point Programs using Tunable Precision][STOKEFP]
 
-May  7  Konstantin, Brandon H.    [Don't Sweat the Small Stuff][SMALLSTUFF]
+May  7      Konstantin, Brandon H.    [Don't Sweat the Small Stuff][SMALLSTUFF]
 
-May 14  Ben, Calvin               [Surgical Precision JIT Compilers][SURGJIT]
+May 14      Ben, Calvin               [Surgical Precision JIT Compilers][SURGJIT]
 
-May 21  Kivanc, Darioush          [A Study and Toolkit for Asynchronous Programming in C#][ASYNCCS]
+May 21      Kivanc, Darioush          [A Study and Toolkit for Asynchronous Programming in C#][ASYNCCS]
 
-May 28  James, Colin              [Types, Abstraction, and Parametric Polymorphism][PARAM]
+May 28      James, Colin              [Types, Abstraction, and Parametric Polymorphism][PARAM]
 
-Jun  4  Eric R., Kirill           [Uncertain&lt;T&gt;: A First-Order Type for Uncertain Data][UNCERTAIN]
+Jun  4      Eric R., Kirill           [Uncertain&lt;T&gt;: A First-Order Type for Uncertain Data][UNCERTAIN]
 
------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
