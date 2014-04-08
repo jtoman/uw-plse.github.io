@@ -40,9 +40,9 @@ May  7      Konstantin, Brandon H.    [Don't Sweat the Small Stuff][SMALLSTUFF]
 
 May 14      Ben, Calvin               [Surgical Precision JIT Compilers][SURGJIT]
 
-May 21      Kivanc, Darioush          [A Study and Toolkit for Asynchronous Programming in C#][ASYNCCS]
+May 21      James, Colin              [Types, Abstraction, and Parametric Polymorphism][PARAM]
 
-May 28      James, Colin              [Types, Abstraction, and Parametric Polymorphism][PARAM]
+May 28      Kivanc, Darioush          [A Study and Toolkit for Asynchronous Programming in C#][ASYNCCS]
 
 Jun  4      Eric R., Kirill           [Uncertain&lt;T&gt;: A First-Order Type for Uncertain Data][UNCERTAIN]
 
