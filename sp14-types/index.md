@@ -2,7 +2,7 @@
 
 ## Spring 2014
 
-### Thursdays, 1:30-2:30 in CSE 624 (NOTE CHANGE OF TIME, DAY, AND LOCATION)
+### Thursdays, 2:30-3:30 in CSE 624 (NOTE CHANGE OF TIME, DAY, AND LOCATION)
 
 [ITTNotes]: http://www.csie.ntu.edu.tw/~b94087/ITT.pdf
 [ITTPaper]: http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.131.926
