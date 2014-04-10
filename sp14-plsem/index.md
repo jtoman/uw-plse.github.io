@@ -30,7 +30,7 @@ Apr  2      Zach Tatlock              Organization
 
 Apr  9      Byron Cook (MSR)          "Undecidable problems are still problems."
 
-Apr 16      Doug                      [The Temporal Logic of Actions][TLA]
+Apr 16      Doug, James               [The Temporal Logic of Actions][TLA]
 
 Apr 23      Eric M., Stuart           [Verified Compilation for Shared-Memory C][VERISHARED]
 

@@ -45,6 +45,6 @@ May 19      Pavel                     [Sound Input Filter Generation for Integer
 
 May 26      (none)                    MEMORIAL DAY
 
-Jun  2      James                     [Enhancing Symbolic Execution with Veritesting][SYMVERI]
+Jun  2      James, Doug               [Enhancing Symbolic Execution with Veritesting][SYMVERI]
 
 ---------------------------------------------------------------------------------------------
