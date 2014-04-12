@@ -31,7 +31,7 @@ Mar 31      Colin                     Organization
 Apr  7      Darioush, Kivanc          [Code Coverage for Suite Evaluation by Developers][CODECOVER1]<br />
                                       [Coverage Is Not Strongly Correlated with Test Suite Effectiveness][CODECOVER2]
 
-Apr 14      Colin                     [The Dafny Integrated Development Environment][DAFNY]
+Apr 14      Colin, Konstantin         [The Dafny Integrated Development Environment][DAFNY]
 
 Apr 21      Yuriy Brun (UMass)        "Factors Affecting Success in Automatic Program Repair"
 
