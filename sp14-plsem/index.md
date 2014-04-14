@@ -32,11 +32,11 @@ Apr  9      Byron Cook (MSR)          "Undecidable problems are still problems."
 
 Apr 16      Doug, James               [The Temporal Logic of Actions][TLA]
 
-Apr 23      Eric M., Stuart           [Verified Compilation for Shared-Memory C][VERISHARED]
+Apr 23      Konstantin, Brandon H.    [Don't Sweat the Small Stuff][SMALLSTUFF]
 
 Apr 30      Pavel, Adrian             [Stochastic Optimization of FP Programs using Tunable Precision][STOKEFP]
 
-May  7      Konstantin, Brandon H.    [Don't Sweat the Small Stuff][SMALLSTUFF]
+May  7      Eric M., Stuart           [Verified Compilation for Shared-Memory C][VERISHARED]
 
 May 14      Ben, Calvin               [Surgical Precision JIT Compilers][SURGJIT]
 
