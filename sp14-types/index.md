@@ -28,6 +28,7 @@ You can see last quarters group [here](../14wi-hott/index.html).
 * Read Chapter 2 through 2.6
 * Read Chapter 3 through 3.5
 * Read frontmatter and Chapter 1 if desired
+* Discussion lead: James
 
 -----
 Last updated: April 8, 2014
