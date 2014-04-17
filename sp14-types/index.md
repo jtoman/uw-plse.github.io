@@ -15,7 +15,7 @@ We'll meet once a week to discuss chapters of Crole's
 
 There's a [mailing list][list] (we're reusing the one from last quarter).
 
-You can see last quarters group [here](../14wi-hott/index.html).
+You can see last quarter's group [here](../14wi-hott/index.html).
 
 ## Schedule
 
