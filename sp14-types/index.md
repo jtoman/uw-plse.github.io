@@ -1,4 +1,4 @@
-x% Reading Group in Categorical Models for Type Theories
+% Reading Group in Categorical Models for Type Theories
 
 ## Spring 2014
 
