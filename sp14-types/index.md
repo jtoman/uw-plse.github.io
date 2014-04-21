@@ -1,4 +1,4 @@
-% Reading Group in Categorical Models for Type Theories
+x% Reading Group in Categorical Models for Type Theories
 
 ## Spring 2014
 
@@ -30,5 +30,9 @@ You can see last quarter's group [here](../14wi-hott/index.html).
 * Read frontmatter and Chapter 1 if desired
 * Discussion lead: James
 
+### Week of April 21
+* Finish chapter 3
+* Discussion lead: James?
+
 -----
-Last updated: April 8, 2014
+Last updated: April 21, 2014
