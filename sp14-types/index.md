@@ -32,7 +32,13 @@ You can see last quarter's group [here](../14wi-hott/index.html).
 
 ### Week of April 21
 * Finish chapter 3
+* Discussion lead: Pavel
+
+### Week of April 28
+* Next time we'll finish talking about Excercise 3.8.5 and Theorem 3.8.6
+* Read 2.7 and 2.8 in preparation for Chapter 4 next week
+* Start chapter 4 if you're bored
 * Discussion lead: James?
 
 -----
-Last updated: April 21, 2014
+Last updated: April 25, 2014
