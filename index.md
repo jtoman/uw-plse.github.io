@@ -7,10 +7,10 @@
 
 University of Washington Programming Languages and Software Engineering
 
-* [Software Engineering Seminar][SESEM]
+* [Software Engineering Seminar][SESEM] (Mondays 3:30)
 
-* [Programming Languages Seminar][PLSEM]
+* [Programming Languages Seminar][PLSEM] (Wednesdays 3:30)
 
-* [PLSE Group Meeting][GMEET]
+* [PLSE Group Meeting][GMEET] (Fridays 3:30)
 
-* [Reading Group in Categorical Models for Type Theories][TYPES]
+* [Reading Group in Categorical Models for Type Theories][TYPES] (Thursdays 2:30)
