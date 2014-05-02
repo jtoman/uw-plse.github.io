@@ -15,7 +15,7 @@ libraries' off-campus access, should provide access.
 ### Schedule
 
 [TLA]:        http://research.microsoft.com/pubs/64074/lamport-actions.pdf
-[VERISHARED]: http://link.springer.com/chapter/10.1007/978-3-642-54833-8_7
+[VERISHARED]: http://www.cs.princeton.edu/~jsseven/papers/sepcomp/paper.pdf
 [STOKEFP]:    http://cs.stanford.edu/people/eschkufz/research/pldi52-schkufza.pdf
 [SMALLSTUFF]: http://www.nicta.com.au/pub?doc=7629&filename=nicta_publication_7629.pdf
 [SURGJIT]:    http://lampwww.epfl.ch/~rompf/lancet_130329.pdf
