@@ -40,5 +40,11 @@ You can see last quarter's group [here](../14wi-hott/index.html).
 * Start chapter 4 if you're bored
 * Discussion lead: James?
 
+### Week of May 5
+* Discuss Yoneda
+
+### Week of May 12
+* Read Chapter 4!!!
+
 -----
-Last updated: April 25, 2014
+Last updated: May 12, 2014
