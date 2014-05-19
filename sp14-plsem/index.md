@@ -20,7 +20,7 @@ libraries' off-campus access, should provide access.
 [SMALLSTUFF]: http://www.nicta.com.au/pub?doc=7629&filename=nicta_publication_7629.pdf
 [SURGJIT]:    http://lampwww.epfl.ch/~rompf/lancet_130329.pdf
 [ASYNCCS]:    https://ideals.illinois.edu/bitstream/handle/2142/45837/okur-2014-icse.pdf
-[PARAM]:      ftp://ftp.cs.cmu.edu/usr/jcr/typesabpara.pdf
+[PARAM]:      http://www.cse.chalmers.se/edu/year/2010/course/DAT140_Types/Reynolds_typesabpara.pdf
 [UNCERTAIN]:  http://research.microsoft.com/pubs/208236/asplos077-bornholtA.pdf
 
 ---------------------------------------------------------------------------------------------
