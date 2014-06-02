@@ -34,6 +34,6 @@ May 23      Kivanc Muslu                Transition from Centralized to Decentral
 May 30      Adrian Sampson              Expressing and Verifying Probabilistic Assertions <br />
 	                                    _(PLDI 14 Practice!)_
 
-Jun  6      Eric Reed                   _(TBD)_
+Jun  6      Eric Reed                   Modeling Rust's Safety Guarantees
 
 ---------------------------------------------------------------------------------------------
