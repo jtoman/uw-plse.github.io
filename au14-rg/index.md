@@ -61,6 +61,14 @@ libraries' off-campus access, should provide access.
   ICFP
   http://www.cl.cam.ac.uk/~dao29/publ/coeffects-icfp14.pdf
 
+  http://www.cs.yale.edu/homes/qcar/data/veristack-paper.pdf
+
+  http://arxiv.org/pdf/1312.0658v1.pdf
+
+  http://www.cs.cornell.edu/~blg59/resources/doc/effing-bound-polymorphism.pdf
+
+  http://ezyang.com/papers/ezyang13-rlimits.pdf
+
 ```
 
 
