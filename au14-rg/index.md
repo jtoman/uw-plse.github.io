@@ -61,12 +61,16 @@ libraries' off-campus access, should provide access.
   ICFP
   http://www.cl.cam.ac.uk/~dao29/publ/coeffects-icfp14.pdf
 
+  End-to-End Verification of Stack-Space Bounds for C Programs
   http://www.cs.yale.edu/homes/qcar/data/veristack-paper.pdf
 
+  A Theory of Changes for Higher Order Languages
   http://arxiv.org/pdf/1312.0658v1.pdf
 
+  Getting F-Bounded Polymorphism into Shape
   http://www.cs.cornell.edu/~blg59/resources/doc/effing-bound-polymorphism.pdf
 
+  Resource Limits for Haskell (EZYang)
   http://ezyang.com/papers/ezyang13-rlimits.pdf
 
   Probabilistic relational verification for cryptographic implementations
@@ -76,6 +80,17 @@ libraries' off-campus access, should provide access.
   Don't sweat the small stuff: formal verification of C code without the pain
   PLDI
   http://dl.acm.org/citation.cfm?id=2594296
+  ^^^ WE READ THAT LAST SPRING
+  
+  CakeML
+  https://cakeml.org/popl14.pdf
+  
+  Verve
+  http://research.microsoft.com/pubs/122884/pldi117-yang.pdf
+
+  VeriC
+  http://vst.cs.princeton.edu/download/VerifiableC.pdf
+
 ```
 
 
