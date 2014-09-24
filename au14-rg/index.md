@@ -48,6 +48,18 @@ libraries' off-campus access, should provide access.
   Compiler Verification Meets Cross-Language Linking via Data Abstraction
   Chlipala's OOPSLA paper
   http://adam.chlipala.net/papers/CitoOOPSLA14/CitoOOPSLA14.pdf
+  
+  Maximal Sharing in the Lambda Calculus with letrec
+  ICFP
+  http://www.few.vu.nl/~cgr600/linkedfiles/maxsharing-ICFP-proceedings.pdf
+  
+  Worker/Wrapper/Makes It/Faster
+  ICFP
+  http://dl.acm.org/citation.cfm?id=2628142
+  
+  Coeffects: A Calculus of Context-Dependent Computation
+  ICFP
+  http://www.cl.cam.ac.uk/~dao29/publ/coeffects-icfp14.pdf
 
 ```
 
