@@ -13,6 +13,34 @@ Some paper links may point into the ACM Digital Library or the
 Springer online collection. Using a UW IP address, or the UW
 libraries' off-campus access, should provide access.
 
+### Suggestions
+
+```
+
+  Spyware: a change-aware development toolset
+  (ICSE 2008)
+  http://dl.acm.org/citation.cfm?id=1368219
+
+  Software Developers’ Perceptions of Productivity
+  (FSE 2014)
+  Pre-print: http://research.microsoft.com/apps/pubs/default.aspx?id=228971
+
+  Developers’ Code Context Models for Change Tasks
+  (FSE 2014)
+  Pre-print: https://www.merlin.uzh.ch/contributionDocument/download/7220
+
+  A Large Scale Study of Programming Languages and Code Quality in Github
+  (FSE 2014)
+  Pre-print: http://baishakhir.github.io/uploads/lang_study.pdf
+
+  A Formally Verified WCET Estimation Tool
+  André Maroneze1 , Sandrine Blazy1 , David Pichardie2 , and Isabelle Puaut1
+  http://drops.dagstuhl.de/opus/volltexte/2014/4600/pdf/3.pdf
+
+
+```
+
+
 ### Schedule
 
 [CODECOVER1]: http://research.engr.oregonstate.edu/hci/sites/research.engr.oregonstate.edu.hci/files/papers/gopinath2014code_1.pdf
