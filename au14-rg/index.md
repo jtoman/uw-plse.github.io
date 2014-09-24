@@ -69,6 +69,13 @@ libraries' off-campus access, should provide access.
 
   http://ezyang.com/papers/ezyang13-rlimits.pdf
 
+  Probabilistic relational verification for cryptographic implementations
+  POPL
+  http://dl.acm.org/citation.cfm?id=2535847
+
+  Don't sweat the small stuff: formal verification of C code without the pain
+  PLDI
+  http://dl.acm.org/citation.cfm?id=2594296
 ```
 
 
